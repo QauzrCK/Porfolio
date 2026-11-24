@@ -1,0 +1,177 @@
+{
+  "enclosure_door": {
+    "title": "Education & Degrees",
+    "subtitle": "Academic Background",
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "university": "King Mongkut's Institute of Technology Ladkrabang (KMITL)"
+      },
+      {
+        "degree": "Master's Degree",
+        "university": ""
+      }
+    ],
+    "cameraOffset": [0.0, 0.0, 1.85],
+    "target": [0.0, 0.0, 0.0]
+  },
+  "main_breaker": {
+    "title": "About Me",
+    "subtitle": "Chanawit Krobbang — Electrical Engineer",
+    "bio": "Electrical Engineering graduate from King Mongkut's Institute of Technology Ladkrabang (KMITL) focused on power systems, industrial automation (PLC/SCADA), embedded hardware, and renewable energy integration.",
+    "cameraOffset": [-0.25, -0.26, 0.55],
+    "target": [-0.25, -0.26, 0.0]
+  },
+  "emergency_stop": {
+    "title": "Urgent Hire?",
+    "subtitle": "Direct Contact & Availability",
+    "urgent": {
+      "message": "Need an Electrical Engineer on your team right away? Reach out directly via Email or LinkedIn.",
+      "email": "mailto:chanawitck@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/chanawit-krobbang-1241b7311/"
+    },
+    "cameraOffset": [0.25, -0.26, 0.55],
+    "target": [0.25, -0.26, 0.0]
+  },
+  "selector_switch": {
+    "title": "Projects & Experience",
+    "subtitle": "Turn the dial to switch slots",
+    "projectsByMode": {
+      "OFF": {
+        "slot": "Slot 01",
+        "name": "Implantable Neurochemical Biosensors (MEAs)",
+        "role": "Bioelectronics & Microelectrode Array Project",
+        "summary": "Interactive engineering showcase on implantable microelectrode array (MEA) neurochemical biosensors for real-time neural and electrochemical sensing.",
+        "tags": ["Bioelectronics", "MEAs", "Biosensors", "Signal Acquisition"],
+        "demoUrl": "https://qauzrck.github.io/Implantable-Neurochemical-Biosensors-MEAs/",
+        "githubUrl": "https://github.com/QauzrCK/Implantable-Neurochemical-Biosensors-MEAs"
+      },
+      "MANUAL": {
+        "slot": "Slot 02",
+        "name": "Low-Noise ECG Biopotential Analog Front-End (AFE)",
+        "role": "Analog Circuit & 2-Layer KiCad PCB Design",
+        "summary": "Single-supply 3.3 V ECG analog front-end (AD8226 + LT1490) with 54.5 dB mid-band gain, 3.39–148.7 Hz passband, and active Twin-T 50 Hz notch filter (>35 dB rejection), verified in LTspice and laid out as a 2-layer PCB in KiCad.",
+        "tags": ["AD8226", "LT1490", "LTspice", "KiCad PCB", "50 Hz Notch"],
+        "githubUrl": "https://github.com/QauzrCK/ECG-Analog-Front-End-PCB"
+      },
+      "AUTO": {
+        "slot": "Slot 03",
+        "name": "Project 03",
+        "summary": "Ready for your third featured engineering project or senior capstone."
+      }
+    },
+    "cameraOffset": [0.0, -0.26, 0.55],
+    "target": [0.0, -0.26, 0.0]
+  },
+  "push_button_start": {
+    "title": "Resume / CV",
+    "subtitle": "Curriculum Vitae",
+    "resume": {
+      "note": "Link your PDF resume here when ready to publish.",
+      "url": "#"
+    },
+    "cameraOffset": [0.125, -0.26, 0.55],
+    "target": [0.125, -0.26, 0.0]
+  },
+  "indicator_led_power": {
+    "title": "Power Indicator",
+    "cameraOffset": [-0.125, -0.22, 0.55],
+    "target": [-0.125, -0.22, 0.0]
+  },
+  "indicator_led_fault": {
+    "title": "Alert Indicator",
+    "cameraOffset": [-0.125, -0.29, 0.55],
+    "target": [-0.125, -0.29, 0.0]
+  },
+  "gauge_voltmeter": {
+    "title": "Soft Skills & Languages",
+    "subtitle": "Interpersonal & Core Strengths",
+    "skills": [
+      "Fluent in Thai, English",
+      "Open-minded",
+      "Empathy and Adaptability",
+      "Emotional Intelligence",
+      "Creativity",
+      "Interpersonal and Good Communication",
+      "Patience"
+    ],
+    "cameraOffset": [-0.15, -0.02, 0.5],
+    "target": [-0.15, -0.02, 0.0]
+  },
+  "gauge_ammeter": {
+    "title": "Technical Skills",
+    "subtitle": "Electrical, Controls & Software",
+    "techSkills": [
+      {
+        "category": "Electrical Circuit Design",
+        "detail": "Schematic capture, analog/digital design, signal integrity, and PCB layout."
+      },
+      {
+        "category": "Power Systems & High Voltage",
+        "detail": "Power distribution systems, load flow analysis, short-circuit studies, and NEC code compliance."
+      },
+      {
+        "category": "Controls & Automation",
+        "detail": "Programmable Logic Controllers (PLCs like Allen-Bradley or Siemens), SCADA, ladder logic, and instrumentation."
+      },
+      {
+        "category": "Embedded Systems",
+        "detail": "Microcontrollers (ARM Cortex, Arduino), firmware development (C/C++), and sensor integration."
+      },
+      {
+        "category": "Renewable Energy & Interconnection",
+        "detail": "Solar, wind, or battery energy storage system (BESS) studies and grid integration."
+      },
+      {
+        "category": "Testing & Lab Equipment",
+        "detail": "Oscilloscopes, multimeters, spectrum analyzers, and hardware debugging."
+      },
+      {
+        "category": "CAD & Drafting",
+        "detail": "AutoCAD Electrical, Altium Designer, Eagle, or SolidWorks."
+      },
+      {
+        "category": "Power & System Analysis",
+        "detail": "ETAP, PSS/E, PSCAD, and SPICE."
+      },
+      {
+        "category": "Programming & Modeling",
+        "detail": "MATLAB / Simulink, Python, C, and C++."
+      }
+    ],
+    "cameraOffset": [0.15, -0.02, 0.5],
+    "target": [0.15, -0.02, 0.0]
+  },
+  "plc_controller": {
+    "title": "Contacts",
+    "subtitle": "Chanawit Krobbang",
+    "contacts": [
+      {
+        "type": "email",
+        "label": "Email",
+        "value": "chanawitck@gmail.com",
+        "url": "mailto:chanawitck@gmail.com"
+      },
+      {
+        "type": "instagram",
+        "label": "Instagram",
+        "value": "chnw._",
+        "url": "https://www.instagram.com/chnw._/"
+      },
+      {
+        "type": "linkedin",
+        "label": "LinkedIn",
+        "value": "Chanawit Krobbang",
+        "url": "https://www.linkedin.com/in/chanawit-krobbang-1241b7311/"
+      }
+    ],
+    "cameraOffset": [0.0, 0.24, 0.65],
+    "target": [0.0, 0.24, 0.0]
+  },
+  "cooling_fan": {
+    "title": "Certifications & Awards",
+    "subtitle": "Credentials",
+    "cameraOffset": [0.85, -0.10, 0.25],
+    "target": [0.38, -0.10, 0.0]
+  }
+}
